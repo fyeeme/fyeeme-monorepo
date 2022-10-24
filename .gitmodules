@@ -1,6 +1,8 @@
 [submodule "apps/fyeeme-admin-client"]
 	path = apps/fyeeme-admin-client
 	url = git@github.com:fyeeme/fyeeme-admin-client.git
+	ignore = dirty
 [submodule "apps/fyeeme-web-client"]
 	path = apps/fyeeme-web-client
 	url = git@github.com:fyeeme/fyeeme-web-client.git
+	ignore = dirty
