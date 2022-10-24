@@ -6,7 +6,7 @@
   "main": "index.ts",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "node build.js",
     "preview": "vite preview"
   },
   "devDependencies": {
